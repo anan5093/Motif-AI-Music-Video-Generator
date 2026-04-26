@@ -1,7 +1,8 @@
 # DESIGN.md — Motif-AI-Music-Video-Generator
-**Version:** 1.0  
+**Version:** 2.0  
 **Author:** Anand Raj  
-**Last Updated:** April 2026    
+**Last Updated:** April 2026
+Previous Version: 1.0
 **Status:** Active Development
 
 ---
