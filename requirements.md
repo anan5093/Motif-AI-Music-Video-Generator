@@ -3,7 +3,7 @@
 **Version:** 1.0  
 **Status:** Pre-development  
 **Last Updated:** April 2026  
-**Author:** Senior AI Software Designer  
+**Author:** Anand Raj  
 
 ---
 
